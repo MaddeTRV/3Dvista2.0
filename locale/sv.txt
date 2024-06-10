@@ -1,0 +1,25 @@
+#: locale=sv
+
+## Media
+
+### Title
+album_146C784E_00EC_CEFC_4163_663961354475.label = Photo Album R10052
+panorama_172078FA_0237_E598_4179_5D648A646F12.label = R0010052
+album_146C784E_00EC_CEFC_4163_663961354475_0.label = R10052
+
+## Popup
+
+### Body
+htmlText_22945CBF_021F_9D98_4173_48B588F969F0.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Detta ska bli en fotovägg </SPAN></DIV></BODY></HTML></div>
+htmlText_23075552_0215_ECE8_4182_9310D541F45E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Detta är en station med flera olika VR-headset.</SPAN></DIV></BODY></HTML></div>
+htmlText_22FED179_021E_6498_4153_3FFB34AA77BF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Här kan man ta en paus och ladda energin!</SPAN></DIV></BODY></HTML></div>
+htmlText_1EF181C1_020E_E7E8_417C_846211A7E5E4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Här sitter Linus och jobbar. </SPAN></DIV></BODY></HTML></div>
+htmlText_1D2F42C0_0213_A5E8_4178_A59D4ABFC0E8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Innanför dörren till höger förvaras inventarier.</SPAN></DIV></BODY></HTML></div>
+htmlText_1D330996_0213_A468_4173_A168B9F6F20F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Labbets 3D printer. </SPAN></DIV></BODY></HTML></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
